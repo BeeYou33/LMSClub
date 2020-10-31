@@ -1,0 +1,10 @@
+Monday is present
+ DAY 	TIME 		   SUBJECT
+MONDAY	  9:10-10:15         BAND
+	      10:15-10:35        BREAK
+          10:35-11:40        P.E
+        
+TUESDAY 9:10-10:15         MATH
+        10:15-10:35        BREAK
+        10:35-11:40        LANGUAGE ARTS
+> 
